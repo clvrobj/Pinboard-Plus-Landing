@@ -3,6 +3,8 @@
 .DS_Store
 .coverage
 env
+venv
 migrations
 tmp
 config.py
+*.log
