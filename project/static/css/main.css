@@ -1,0 +1,26 @@
+/* Main stylesheet */
+
+body {
+  padding-top: 75px;
+  padding-bottom: 20px;
+}
+
+.admin_table {
+  max-width: 400px;
+}
+
+img.appicon {
+  width: 30%;
+  height: 30%;
+  min-width: 20px;
+  max-width: 50px;
+  padding: 5px;
+}
+
+.screenshot img {
+  width: 100%;
+  height: 100%;
+  min-width: 200px;
+  max-width: 1130px;
+  padding: 10px 40px;
+}
